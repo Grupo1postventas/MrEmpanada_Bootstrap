@@ -1,0 +1,30 @@
+html {
+    scroll-behavior: smooth;
+}
+/* ____________________________ID_______________________________ */
+#header {
+    padding-top: 100px;
+}
+#services {
+    padding-top: 95px;
+    width: 80%;
+    margin: 0 auto;
+}
+#news {
+    padding-top: 75px;
+    width: 80%;
+    margin: 0 auto;
+}
+#team {
+    padding-top: 100px;
+}
+/* ____________________________menú navegación_______________________________ */
+nav {
+    display: flex !important; 
+    justify-content:center !important;
+    padding-top: 20px !important;
+    position: fixed !important;
+    right: 0 !important;
+    top: 0 !important;
+}
+
